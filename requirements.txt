@@ -1,0 +1,8 @@
+# Python >=3.11. Direct dependencies pinned from PyPI on 2026-10-30.
+# Groq's OpenAI-compatible API is called through the pinned requests library.
+streamlit==1.66.1
+requests==2.34.2
+pandas==3.1.0
+plotly==7.1.0
+pydantic==2.14.2
+# Pillow is not required: CoachBot has no image input.

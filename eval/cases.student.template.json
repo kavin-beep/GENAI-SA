@@ -1,0 +1,25 @@
+[
+  {
+    "id": "my_case_01",
+    "prompt_id": "tactical_reflection",
+    "provenance": "student_supplied",
+    "language": "English",
+    "values": {
+      "sport": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "position": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "age": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "region": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "situation": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "available_resources": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "injury_context": "[MY INPUT NEEDED: fictional or anonymized case context]",
+      "goal": "[MY INPUT NEEDED: fictional or anonymized case context]"
+    },
+    "health": {
+      "injury_status": "[MY INPUT NEEDED: explicit health answer]",
+      "injury_regions": "[MY INPUT NEEDED: explicit health answer]",
+      "current_pain": "[MY INPUT NEEDED: explicit health answer]",
+      "suspected_concussion": "[MY INPUT NEEDED: explicit health answer]",
+      "urgent_symptoms": "[MY INPUT NEEDED: explicit health answer]"
+    }
+  }
+]

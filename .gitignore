@@ -1,0 +1,25 @@
+# Credentials: commit examples only.
+.streamlit/secrets.toml
+**/secrets.toml
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local Python environment and generated files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Inputs, model responses and feedback may contain personal information.
+.cache/
+data/
+eval/results/*
+!eval/results/.gitkeep
+# Publish only manually reviewed, anonymized evidence under docs/evidence/.
